@@ -1,0 +1,233 @@
+[
+    {
+        "name" : "Axis Bank Ltd",
+        "sector" : "Bank",
+        "peratio" : 19.03,
+        "pbratio" : 2.27,
+        "shortform" : "AXISBANK",
+        "sectorpe" : 21.52,
+        "sectorpb" : 2.23,
+        "dividend" : 0.11,
+        "mcap" : "largecap"
+
+    },
+    {
+        "name" : "AU Small Finance Bank",
+        "sector" : "Bank",
+        "peratio" : 35.63,
+        "pbratio" : 5.36,
+        "shortform" : "AUBANK",
+        "sectorpe" : 21.52,
+        "sectorpb" : 2.23,
+        "dividend" : 0.08,
+        "mcap" : "midcap"
+
+    },
+    {
+        "name" : "Bank of Baroda",
+        "sector" : "Bank",
+        "peratio" : 10.36,
+        "pbratio" : 0.88,
+        "shortform" : "BANKBARODA",
+        "sectorpe" : 21.52,
+        "sectorpb" : 2.23,
+        "dividend" : 1.82,
+        "mcap" : "largecap"
+
+    },
+    {
+        "name" : "ICICI Bank Ltd",
+        "sector" : "Bank",
+        "peratio" : 22.71,
+        "pbratio" : 3.03,
+        "shortform" : "ICICIBANK",
+        "sectorpe" : 21.52,
+        "sectorpb" : 2.23,
+        "dividend" : 0.61,
+        "mcap" : "largecap"
+
+    },
+    {
+        "name" : "Kotak Mahindra Bank Ltd",
+        "sector" : "Bank",
+        "peratio" : 28.19,
+        "pbratio" : 3.51,
+        "shortform" : "KOTAKBANK",
+        "sectorpe" : 21.52,
+        "sectorpb" : 2.23,
+        "dividend" : 0.06,
+        "mcap" : "largecap"
+
+    },
+    {
+        "name" : "State Bank of Ltd",
+        "sector" : "Bank",
+        "peratio" : 13.62,
+        "pbratio" : 1.52,
+        "shortform" : "SBIN",
+        "sectorpe" : 21.52,
+        "sectorpb" : 2.23,
+        "dividend" : 1.31,
+        "mcap" : "largecap"
+
+    },
+    {
+        "name" : "Abott India Ltd",
+        "sector" : "HealthCare",
+        "peratio" : 56.43,
+        "pbratio" : 15.98,
+        "shortform" : "ABOTTINDIA",
+        "sectorpe" : 34.26,
+        "sectorpb" : 4.19,
+        "dividend" : 1.30,
+        "mcap" : "midcap"
+
+    },
+    {
+        "name" : "Cipla Ltd",
+        "sector" : "HealthCare",
+        "peratio" : 33.59,
+        "pbratio" : 4.00,
+        "shortform" : "CIPLA",
+        "sectorpe" : 34.26,
+        "sectorpb" : 4.19,
+        "dividend" : 0.48,
+        "mcap" : "largecap"
+
+    },
+    {
+        "name" : "Dr Reddy's Laboratories",
+        "sector" : "HealthCare",
+        "peratio" : 32.83,
+        "pbratio" : 3.73,
+        "shortform" : "DRREDDY",
+        "sectorpe" : 34.26,
+        "sectorpb" : 4.19,
+        "dividend" : 0.70,
+        "mcap" : "largecap"
+    },
+    {
+        "name" : "Metropolis Healthcare Ltd",
+        "sector" : "HealthCare",
+        "peratio" : 31.10,
+        "pbratio" : 7.50,
+        "shortform" : "METROPOLIS",
+        "sectorpe" : 34.26,
+        "sectorpb" : 4.19,
+        "dividend" : 0.61,
+        "mcap" : "smallcap"
+
+    },
+    {
+        "name" : "Sun Pharmaceutical Industries Ltd",
+        "sector" : "HealthCare",
+        "peratio" : 76.49,
+        "pbratio" : 4.90,
+        "shortform" : "SUNPHARMA",
+        "sectorpe" : 34.26,
+        "sectorpb" : 4.19,
+        "dividend" : 0.96,
+        "mcap" : "largecap"
+
+    },
+    {
+        "name" : "Coforge Ltd",
+        "sector" : "IT",
+        "peratio" : 39.63,
+        "pbratio" : 9.29,
+        "shortform" : "COFORGE",
+        "sectorpe" : 26.77,
+        "sectorpb" : 7.41,
+        "dividend" : 1.21,
+        "mcap" : "midcap"
+    },
+    {
+        "name" : "HCL Technologies Ltd",
+        "sector" : "IT",
+        "peratio" : 22.37,
+        "pbratio" : 4.87,
+        "shortform" : "HCLTECH",
+        "sectorpe" : 26.77,
+        "sectorpb" : 7.41,
+        "dividend" : 3.77,
+        "mcap" : "largecap"
+    },
+    {
+        "name" : "Infosys Ltd",
+        "sector" : "IT",
+        "peratio" : 28.65,
+        "pbratio" : 8.37,
+        "shortform" : "INFY",
+        "sectorpe" : 26.77,
+        "sectorpb" : 7.41,
+        "dividend" : 2.05,
+        "mcap" : "largecap"
+    },
+    {
+        "name" : "Wipro Ltd",
+        "sector" : "IT",
+        "peratio" : 17.82,
+        "pbratio" : 3.33,
+        "shortform" : "Wipro",
+        "sectorpe" : 26.77,
+        "sectorpb" : 7.41,
+        "dividend" : 1.51,
+        "mcap" : "largecap"
+    },
+    {
+        "name" : "Adani Green Energy Ltd",
+        "sector" : "ENERGY",
+        "peratio" : 481.45,
+        "pbratio" : 90.06,
+        "shortform" : "ADANIGREEN",
+        "sectorpe" : 23.11,
+        "sectorpb" : 3.04,
+        "dividend" : 0,
+        "mcap" : "largecap"
+    },
+    {
+        "name" : "Bharat Petroleum Corporation Ltd",
+        "sector" : "ENERGY",
+        "peratio" : 6.23,
+        "pbratio" : 1.40,
+        "shortform" :"BPLC",
+        "sectorpe" : 12.38,
+        "sectorpb" : 1.39,
+        "dividend" : 4.68,
+        "mcap" : "largecap"
+    },
+    {
+        "name" : "GAIL (India) Ltd",
+        "sector" : "ENERGY",
+        "peratio" : 5.32,
+        "pbratio" : 1.01,
+        "shortform" : "GAIL",
+        "sectorpe" : 23.11,
+        "sectorpb" : 3.04,
+        "dividend" : 6.81,
+        "mcap" : "largecap"
+    },
+    {
+        "name" : "Indian Oil Corporation Ltd",
+        "sector" : "ENERGY",
+        "peratio" : 4.56,
+        "pbratio" : 0.85,
+        "shortform" : "IOC",
+        "sectorpe" : 12.38,
+        "sectorpb" : 1.39,
+        "dividend" : 10.11,
+        "mcap" : "largecap"
+    },
+    {
+        "name" : "Oil And NaturalGas Corporation Ltd",
+        "sector" : "ENERGY",
+        "peratio" : 4.08,
+        "pbratio" : 0.66,
+        "shortform" : "ONGC",
+        "sectorpe" : 23.11,
+        "sectorpb" : 3.04,
+        "dividend" : 7.11,
+        "mcap" : "largecap"
+    }
+    
+]
