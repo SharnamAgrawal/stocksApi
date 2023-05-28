@@ -30,7 +30,7 @@ const getMeData = async (req,res)=>{
     if(mcap){
         queryObject.mcap = mcap;
     }
-    let ans = Stock.find(queryObject,{_id : -1});
+    let ans = Stock.find(queryObject);
     if(sorted){
         sorted = sorted.replace(","," ");
         ans = ans.sort(sorted);
